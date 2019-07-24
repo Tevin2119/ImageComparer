@@ -1,0 +1,7 @@
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\bin\Debug\ImageComparer.exe.config
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\bin\Debug\ImageComparer.exe
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\bin\Debug\ImageComparer.pdb
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\obj\Debug\ImageComparer.csprojAssemblyReference.cache
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\obj\Debug\ImageComparer.csproj.CoreCompileInputs.cache
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\obj\Debug\ImageComparer.exe
+C:\Users\sweet\OneDrive\Desktop\GITRepo\ImageComparer\obj\Debug\ImageComparer.pdb
